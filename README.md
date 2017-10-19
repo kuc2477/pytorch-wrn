@@ -1,4 +1,4 @@
-# Neural Turing Machines PyTorch Implementation
+# Wide Residual Networks PyTorch Implementation
 
 PyTorch Implementation of [Wide Residual Networks, BMVC 2016](http://www.bmva.org/bmvc/2016/papers/paper087/abstract087.pdf)
 
