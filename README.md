@@ -59,7 +59,7 @@ $ ./main.py --test
 
 ## Reference
 - [Wide Residual Networks, BMVC 2016](http://www.bmva.org/bmvc/2016/papers/paper087/abstract087.pdf)
-- [wrn-tensorflow](https://github.com/dalgu90/wrn-tensorflow)
+- [dalgu90/wrn-tensorflow](https://github.com/dalgu90/wrn-tensorflow)
 
 
 ## Author
