@@ -47,7 +47,7 @@ optional arguments:
 
 #### Train
 ```
-$ python -m visom.server &
+$ python -m visdom.server &
 $ ./main.py --train [--resume-latest | --resume-best]
 ```
 
